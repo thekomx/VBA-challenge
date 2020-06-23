@@ -1,5 +1,5 @@
 # VBA-challenge
-The VBA of Wall Street!
+### The VBA of Wall Street!
 
 This VBA will summarize the price change of a stock.
 It can be used in an Excel file with multiple sheets in it.
