@@ -16,4 +16,4 @@ The output:
     - Most volume stock
     
     
-*** The data comes grouped in ticker and Date sorted ***
+*** The data comes grouped in ticker and Date sorted in ascending order ***
